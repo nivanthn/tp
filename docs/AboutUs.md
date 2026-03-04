@@ -11,13 +11,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Keith Cheng
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/keithcheng22.png" width="200px">
 
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[homepage](https://keithcheng.vercel.app/)]
+[[github](https://github.com/KeithCheng22)]
+
+<!-- [[portfolio](team/johndoe.md)] -->
 
 - Role: Project Advisor
 
