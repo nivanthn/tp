@@ -4,8 +4,6 @@ import static seedu.hireshell.testutil.Assert.assertThrows;
 
 import org.junit.jupiter.api.Test;
 
-import seedu.hireshell.model.role.Role;
-
 public class RoleTest {
 
     @Test

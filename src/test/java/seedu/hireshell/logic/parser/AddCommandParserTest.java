@@ -61,7 +61,12 @@ public class AddCommandParserTest {
         Person expectedPersonMultipleRoles = new PersonBuilder(BOB).withRoles(VALID_ROLE_FRIEND, VALID_ROLE_HUSBAND)
                 .build();
         assertParseSuccess(parser,
-                NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB + ADDRESS_DESC_BOB + ROLE_DESC_HUSBAND + ROLE_DESC_FRIEND,
+                NAME_DESC_BOB + 
+                PHONE_DESC_BOB + 
+                EMAIL_DESC_BOB + 
+                ADDRESS_DESC_BOB + 
+                ROLE_DESC_HUSBAND + 
+                ROLE_DESC_FRIEND,
                 new AddCommand(expectedPersonMultipleRoles));
     }
 
