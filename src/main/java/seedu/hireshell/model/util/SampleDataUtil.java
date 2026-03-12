@@ -5,11 +5,11 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 import seedu.hireshell.model.AddressBook;
+import seedu.hireshell.model.ReadOnlyAddressBook;
 import seedu.hireshell.model.person.Email;
 import seedu.hireshell.model.person.Name;
 import seedu.hireshell.model.person.Person;
 import seedu.hireshell.model.person.Phone;
-import seedu.hireshell.model.ReadOnlyAddressBook;
 import seedu.hireshell.model.person.Status;
 import seedu.hireshell.model.tag.Tag;
 
